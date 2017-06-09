@@ -1,1 +1,1 @@
-FROM cyberdojofoundation/swift:3.1
+FROM cyberdojofoundation/swift-xctest
