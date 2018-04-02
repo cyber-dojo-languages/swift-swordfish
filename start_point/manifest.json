@@ -1,4 +1,3 @@
-
 {
   "display_name": "Swift, Swordfish",
 
@@ -12,7 +11,7 @@
 
   "image_name": "cyberdojofoundation/swift_swordfish",
 
-  "filename_extension" : ".swift",
+  "filename_extension": ".swift",
 
   "runner_choice": "stateless"
 }
