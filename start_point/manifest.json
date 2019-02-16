@@ -11,7 +11,5 @@
 
   "image_name": "cyberdojofoundation/swift_swordfish",
 
-  "filename_extension": ".swift",
-
-  "runner_choice": "stateless"
+  "filename_extension": ".swift"
 }
