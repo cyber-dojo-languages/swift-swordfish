@@ -1,4 +1,3 @@
-
 [![CircleCI](https://circleci.com/gh/cyber-dojo-languages/swift-swordfish.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/swift-swordfish)
 
 ## display_name="Swift, Swordfish"
