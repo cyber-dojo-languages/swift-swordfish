@@ -1,5 +1,5 @@
-// For more information on using the excellent Swordfish test framework see
-// https://github.com/philsquared/Swordfish
+// For more information on the excellent Swordfish test framework
+// see https://github.com/philsquared/Swordfish
 
 class HikerTests: SwordfishTests {
   var hiker : Hiker!
@@ -15,9 +15,9 @@ class HikerTests: SwordfishTests {
 }
 
 extension HikerTests {
-    static var allTests : [(String, (HikerTests) -> () throws -> Void)] {
-        return [
-            ("testLife_the_universe_and_everything", testLife_the_universe_and_everything),
-        ]
-    }
+  static var allTests : [(String, (HikerTests) -> () throws -> Void)] {
+    var name = "testLife_the_universe_and_everything"
+    var fun = testLife_the_universe_and_everything
+    return [ (name, fun), ]
+  }
 }
