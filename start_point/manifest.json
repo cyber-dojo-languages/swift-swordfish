@@ -1,15 +1,15 @@
 {
   "display_name": "Swift, Swordfish",
-
-  "visible_filenames": [
+  "image_name": "cyberdojofoundation/swift_swordfish",
+  "visible_filenames":
+  [
     "swordfish.swift",
     "hikertests.swift",
     "hiker.swift",
     "main.swift",
     "cyber-dojo.sh"
   ],
-
-  "image_name": "cyberdojofoundation/swift_swordfish",
-
-  "filename_extension": ".swift"
+  "filename_extension": [ ".swift" ],
+  "max_seconds": 10,
+  "tab_size": 4
 }
