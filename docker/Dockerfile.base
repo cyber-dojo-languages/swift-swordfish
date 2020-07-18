@@ -1,2 +1,2 @@
-FROM cyberdojofoundation/swift_xctest:150f5d9
+FROM cyberdojofoundation/swift_xctest:1f5382e
 LABEL maintainer=jon@jaggersoft.com
