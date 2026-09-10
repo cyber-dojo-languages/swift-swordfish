@@ -1,2 +1,2 @@
-FROM ghcr.io/cyber-dojo-languages/swift_xctest:a3cda65
+FROM ghcr.io/cyber-dojo-languages/swift_xctest:4938369
 LABEL maintainer=jon@jaggersoft.com
